@@ -1,2 +1,2 @@
-# indicadores_economicos
-Web Scraping de indicadores economicos de Chile con Python, almacenamiento via API en Google Sheets (Apps Script) y visualizacion en Power BI
+# ETL & Web Scraping: Indicadores Económicos
+Proyecto End-to-End de extracción y procesamiento de datos. Utiliza Python (BeautifulSoup, Pandas) para scrapear datos gubernamentales públicos, los procesa y los envía a través de una API construida con Google Apps Script hacia Google Sheets, sirviendo como base de datos en la nube para alimentar un dashboard interactivo en Power BI.
